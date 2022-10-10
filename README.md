@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&&color=CCFFFF&height=130&section=header&fontSize=90)
+
  <!--방문자 수 집계-->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYu-JeSeung&count_bg=%2381C2F4&title_bg=%238A9CA6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br>
@@ -46,6 +48,9 @@ Here are some ideas to get you started:
 </div>
 <br/>
 
+<!-- 백준 등급-->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wptmd1410)](https://solved.ac/wptmd1410/)
+
 <!--커밋수-->
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yu-JeSeung&show_icons=true&theme=highcontrast)
@@ -53,3 +58,6 @@ Here are some ideas to get you started:
 
   | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yu-JeSeung&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-JeSeung&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=CCFFFF&height=130&section=footer&fontSize=90)
