@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <br/>
 
 <!-- 백준 등급-->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wptmd1410)](https://solved.ac/wptmd1410/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wptmd1410)](https://solved.ac/wptmd1410/)
 
 <!--커밋수-->
 <!--
