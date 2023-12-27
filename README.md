@@ -55,16 +55,19 @@ Here are some ideas to get you started:
 <br/>
 
 <!--커밋수-->
-<!--
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yu-JeSeung&show_icons=true&theme=highcontrast)
--->
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wptmd1410)](https://solved.ac/wptmd1410/)
 
 
- 
+
 <!-- most lang -->
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-JeSeung&layout=compact&theme=buefy&hide_border=true" /></a>
+-->
+
 
  <!--
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=CCFFFF&height=130&section=footer&fontSize=90)
