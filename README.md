@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=CCFFFF&height=130&section=header&fontSize=90)
 -->
  
- <!--방문자 수 집계-->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYu-JeSeung&count_bg=%2381C2F4&title_bg=%238A9CA6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br><br>
 
 <!-- 테크 -->
   <!-- 사용 홈페이지 : https://simpleicons.org/ -->
