@@ -5,7 +5,7 @@
 
 <!-- 테크 -->
   <!-- 사용 홈페이지 : https://simpleicons.org/ -->
-  <h5>🖊 Main</h5>
+  ### Main
 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
