@@ -20,7 +20,7 @@
 - **DearLook** - 코디 다이어리 앱 서비스 | AI / 팀장 | 2026.02 ~
 - **Relog** - 관계 기록 요약 & 관계 솔루션 앱 서비스 | AI | 2026.01 ~
 - **동숲** - 동양미래대학 연동 앱 서비스 | AI | 2025.03 ~   [앱 스토어](https://apps.apple.com/kr/app/%EB%8F%99%EC%88%B2/id6748893131) | [플레이스토어](https://play.google.com/store/apps/details?id=com.dongsoop.site.dongsoop&pcampaignid=web_share)
-- **Easy Trip** - 사용자 선호도 기반 코스 추천 앱 서비스 | 백엔드, AI / 팀장 | 2024.03 ~ 2024.12
+- **Easy Trip** - 사용자 선호도 기반 코스 추천 앱 서비스 | AI / 팀장 | 2024.03 ~ 2024.12
 
 ## 📑 Paper
 
