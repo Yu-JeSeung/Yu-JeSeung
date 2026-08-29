@@ -17,6 +17,7 @@
 
 ## 💻 Project
 
+- **PinIt** - 소비패턴 분석 및 공유 앱 서비스 | Backend / AI | 2026.09 ~ 현재
 - **DearLook** - 코디 다이어리 앱 서비스 | AI / 팀장 | 2026.02 ~ 2026.04
 - **Relog** - 관계 기록 요약 & 관계 솔루션 앱 서비스 | AI | 2026.01 ~ 2026.03
 - **동숲** - 동양미래대학 연동 앱 서비스 | AI |  [앱 스토어](https://apps.apple.com/kr/app/%EB%8F%99%EC%88%B2/id6748893131) | [플레이스토어](https://play.google.com/store/apps/details?id=com.dongsoop.site.dongsoop&pcampaignid=web_share) | 2025.03 ~  현재
